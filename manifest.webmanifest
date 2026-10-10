@@ -1,1 +1,1 @@
-{"name":"Akhtar Racing Adventure","short_name":"Akhtar Racing","start_url":"./index.html","display":"standalone","background_color":"#83d7ff","theme_color":"#63c6ff","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name":"Akhtar Racing Adventure","short_name":"Akhtar Racing","start_url":"./","display":"standalone","background_color":"#79d5ff","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
